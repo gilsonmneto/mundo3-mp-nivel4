@@ -216,3 +216,4 @@ $RECYCLE.BIN/
 
 # add your custom gitignore here:
 *.docx
+*.tmpt
